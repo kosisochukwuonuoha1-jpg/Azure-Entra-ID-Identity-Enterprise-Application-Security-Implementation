@@ -45,7 +45,7 @@ Assigned Microsoft 365 Business Basic licenses
 
 Validated login and access behavior
 
-📸 Screenshot: Users and license assignment
+Screenshot: Users and license assignment
 
 2.) Security Groups Implementation
 
@@ -59,7 +59,7 @@ Designed for role-based access assignment
 
 Prepared groups for license and application access control
 
-📸 Screenshot: Security groups dashboard
+ Screenshot: Security groups dashboard
 
 3.) Enterprise Application Integration
 
@@ -73,7 +73,7 @@ Validated activation status
 
 This simulates real-world SaaS integration with Entra ID as Identity Provider.
 
-📸 Screenshot: Dropbox Enterprise Application Properties
+ Screenshot: Dropbox Enterprise Application Properties
 
 4.) Application Registration
 
@@ -93,7 +93,7 @@ Service principals
 
 Token-based authentication
 
-📸 Screenshot: App Registration dashboard
+ Screenshot: App Registration dashboard
 
 5.) Conditional Access Policy Implementation
 
@@ -103,7 +103,7 @@ Enforced identity-based access control
 
 Prepared tenant for MFA and risk-based authentication
 
-📸 Screenshot: Conditional Access Policies dashboard
+ Screenshot: Conditional Access Policies dashboard
 
  SECURITY CONTROLS DEMONSTRATED
  
