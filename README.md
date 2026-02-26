@@ -1,6 +1,6 @@
-# Azure-Entra-ID-Identity-Enterprise-Application-Security-Implementation
+ Azure-Entra-ID-Identity-Enterprise-Application-Security-Implementation
 
-📖 Project Overview
+ PROJECT OVERVIEW
 
 In this project, I implemented enterprise-level identity and access security controls using Microsoft Entra ID (Azure AD) and Microsoft 365.
 
@@ -20,7 +20,7 @@ Application registrations are configured securely
 
 This project demonstrates hands-on experience in Identity & Access Management (IAM), Zero Trust, and Cloud Application Security.
 
-🎯 Business Problem
+BUSINESS PROBLEM
 
 Organizations face major risks from:
 
@@ -36,8 +36,8 @@ Lack of identity monitoring
 
 This lab simulates securing a small enterprise tenant using best practices.
 
-🏗 Architecture Components Implemented
-1️⃣ User Provisioning (Microsoft 365 Admin Center)
+ARCHITECTURE COMPONENTS IMPLEMENTED
+1.) User Provisioning (Microsoft 365 Admin Center)
 
 Created multiple users
 
@@ -47,7 +47,7 @@ Validated login and access behavior
 
 📸 Screenshot: Users and license assignment
 
-2️⃣ Security Groups Implementation
+2.) Security Groups Implementation
 
 Created security groups:
 
@@ -61,7 +61,7 @@ Prepared groups for license and application access control
 
 📸 Screenshot: Security groups dashboard
 
-3️⃣ Enterprise Application Integration
+3.) Enterprise Application Integration
 
 Added external SaaS application (Dropbox Business)
 
@@ -75,7 +75,7 @@ This simulates real-world SaaS integration with Entra ID as Identity Provider.
 
 📸 Screenshot: Dropbox Enterprise Application Properties
 
-4️⃣ Application Registration
+4.) Application Registration
 
 Created custom application registration (nakcm)
 
@@ -95,7 +95,7 @@ Token-based authentication
 
 📸 Screenshot: App Registration dashboard
 
-5️⃣ Conditional Access Policy Implementation
+5.) Conditional Access Policy Implementation
 
 Created 2 Conditional Access policies
 
@@ -105,17 +105,17 @@ Prepared tenant for MFA and risk-based authentication
 
 📸 Screenshot: Conditional Access Policies dashboard
 
-🔐 Security Controls Demonstrated
+ SECURITY CONTROLS DEMONSTRATED
+ 
+Role-Based Access Control (RBAC)
+Conditional Access
+SaaS Application Governance
+Identity Lifecycle Management
+Application Registration Security
+Microsoft 365 License Governance
+Zero Trust Principles
 
-✔ Role-Based Access Control (RBAC)
-✔ Conditional Access
-✔ SaaS Application Governance
-✔ Identity Lifecycle Management
-✔ Application Registration Security
-✔ Microsoft 365 License Governance
-✔ Zero Trust Principles
-
-🚨 Simulated Threat Scenario
+SIMULATED THREAT SCENARIO
 
 Scenario:
 An attacker attempts to log into a SaaS application (Dropbox Business) using compromised credentials.
@@ -133,7 +133,7 @@ Restricted enterprise app access
 Result:
 Reduced risk of unauthorized SaaS access and credential misuse.
 
-🛠 Technical Skills Demonstrated
+TECHNICAL SKILSS DEMONSTRATED
 
 Microsoft Entra ID
 Microsoft 365 Administration
@@ -146,7 +146,7 @@ OAuth Concepts
 SaaS Integration
 Zero Trust Architecture
 
-📊 Why This Project Matters
+ Why This Project Matters:
 
 This project demonstrates the ability to:
 
@@ -162,7 +162,7 @@ Configure application-based authentication
 
 Apply security best practices in Azure environments
 
-🚀 Career Focus
+Career Focus
 
 I am currently preparing for AZ-500 and building hands-on experience in:
 
